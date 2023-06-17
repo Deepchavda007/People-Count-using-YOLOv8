@@ -40,9 +40,6 @@ The application will open a window showing the video stream with people bounding
 
 The final output video will be saved as Final_output.mp4 in the project directory.
 
-### Final_output
-https://github.com/Deepchavda007/People-Count-using-YOLOv8/assets/82630272/12486a2e-73c9-4d65-a48f-b072ad8ac05f
-
 ## Performance
 The application uses object tracking and centroid-based counting to track people and count their entry and exit. The counting results are displayed in the video window and logged to the console.
 
